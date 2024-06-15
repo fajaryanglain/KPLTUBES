@@ -1,0 +1,14 @@
+D:\kuliah\ngoding\kpl\coba\tubes\bin\Debug\net6.0\tubes.exe
+D:\kuliah\ngoding\kpl\coba\tubes\bin\Debug\net6.0\tubes.deps.json
+D:\kuliah\ngoding\kpl\coba\tubes\bin\Debug\net6.0\tubes.runtimeconfig.json
+D:\kuliah\ngoding\kpl\coba\tubes\bin\Debug\net6.0\tubes.dll
+D:\kuliah\ngoding\kpl\coba\tubes\bin\Debug\net6.0\tubes.pdb
+D:\kuliah\ngoding\kpl\coba\tubes\obj\Debug\net6.0\tubes.GeneratedMSBuildEditorConfig.editorconfig
+D:\kuliah\ngoding\kpl\coba\tubes\obj\Debug\net6.0\tubes.AssemblyInfoInputs.cache
+D:\kuliah\ngoding\kpl\coba\tubes\obj\Debug\net6.0\tubes.AssemblyInfo.cs
+D:\kuliah\ngoding\kpl\coba\tubes\obj\Debug\net6.0\tubes.csproj.CoreCompileInputs.cache
+D:\kuliah\ngoding\kpl\coba\tubes\obj\Debug\net6.0\tubes.dll
+D:\kuliah\ngoding\kpl\coba\tubes\obj\Debug\net6.0\refint\tubes.dll
+D:\kuliah\ngoding\kpl\coba\tubes\obj\Debug\net6.0\tubes.pdb
+D:\kuliah\ngoding\kpl\coba\tubes\obj\Debug\net6.0\tubes.genruntimeconfig.cache
+D:\kuliah\ngoding\kpl\coba\tubes\obj\Debug\net6.0\ref\tubes.dll
